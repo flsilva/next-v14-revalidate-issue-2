@@ -4,7 +4,7 @@ export default function BugDescription() {
       <p className="mt-4">
         This bug report is using{" "}
         <span className="font-mono font-semibold">
-          Next.js v14.1.1-canary.5
+          Next.js v14.1.1-canary.37
         </span>
       </p>
       <p className="mt-4">
